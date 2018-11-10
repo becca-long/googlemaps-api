@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: lightgrey;
+}
+
+header {
+    text-align: center;
+}
+
+#mapContainer {
+    align-self: center;
+    height: 400px;
+    width: 50%;
+    border: 2px solid black;
+}
